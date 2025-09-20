@@ -1,4 +1,4 @@
-file = ".\TuteDude\Assignment 4\sample.txt"
+file = ".\TuteDude\Python\Assignment 4\sample.txt"
 
 try:
     with open(file, 'r') as f:

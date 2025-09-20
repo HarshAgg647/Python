@@ -1,4 +1,4 @@
-file = "./TuteDude/Assignment 4/output.txt"
+file = "./TuteDude/Python/Assignment 4/output.txt"
 
 with open(file, 'w') as f:
     message = input("Enter a message to write to the file: ")
