@@ -7,3 +7,4 @@ __pycache__/
 
 #igore other files
 ./Django/
+./Misc/
